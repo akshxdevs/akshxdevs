@@ -10,8 +10,8 @@ currently transitioning more towards <b>backend</b> and <b>systems programming</
 </p>
 
 <br>
-  
+
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=akshxdevs&show_icons=true&custom_title=GitHub+Statistics&title_color=89b4fa&icon_color=89b4fa&theme=catppuccin_mocha&bg_color=0d1117&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=akshxdevs&show_icons=true&custom_title=GitHub+Statistics&title_color=89b4fa&icon_color=89b4fa&theme=catppuccin_mocha&bg_color=0d1117&border_color=45475a&hide_rank=true"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=akshxdevs&layout=compact&title_color=89b4fa&theme=catppuccin_mocha&bg_color=0d1117&border_color=45475a"/></a>
 </div>
