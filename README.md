@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm Aksh :3
+# Hey! I'm Akash :3
 
 I like **terminals**, **minimalism** and **open source**
 
@@ -34,7 +34,7 @@ currently transitioning more towards **backend** and **systems programming**
 ### Tech Stack
 
 ```
-Languages   →  Go · JavaScript · TypeScript · C++ · Shell
+Languages   →  Go · JavaScript · TypeScript · Python · Shell
 Frontend    →  React · Next.js · Tailwind CSS
 Backend     →  Node.js · Bun · REST APIs
 Tools       →  Neovim · tmux · Git · Docker · Linux
